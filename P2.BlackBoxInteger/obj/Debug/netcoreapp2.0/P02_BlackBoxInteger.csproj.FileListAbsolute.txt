@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P2.BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P2.BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P2.BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P2.BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P2.BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P2.BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P2.BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P2.BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P2.BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P2.BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P2.BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb

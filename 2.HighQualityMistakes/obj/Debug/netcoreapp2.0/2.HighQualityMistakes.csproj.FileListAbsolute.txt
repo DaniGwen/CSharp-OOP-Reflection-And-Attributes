@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\2.HighQualityMistakes\bin\Debug\netcoreapp2.0\2.HighQualityMistakes.deps.json
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\2.HighQualityMistakes\bin\Debug\netcoreapp2.0\2.HighQualityMistakes.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\2.HighQualityMistakes\bin\Debug\netcoreapp2.0\2.HighQualityMistakes.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\2.HighQualityMistakes\bin\Debug\netcoreapp2.0\2.HighQualityMistakes.dll
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\2.HighQualityMistakes\bin\Debug\netcoreapp2.0\2.HighQualityMistakes.pdb
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\2.HighQualityMistakes\obj\Debug\netcoreapp2.0\2.HighQualityMistakes.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\2.HighQualityMistakes\obj\Debug\netcoreapp2.0\2.HighQualityMistakes.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\2.HighQualityMistakes\obj\Debug\netcoreapp2.0\2.HighQualityMistakes.AssemblyInfoInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\2.HighQualityMistakes\obj\Debug\netcoreapp2.0\2.HighQualityMistakes.AssemblyInfo.cs
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\2.HighQualityMistakes\obj\Debug\netcoreapp2.0\2.HighQualityMistakes.dll
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\2.HighQualityMistakes\obj\Debug\netcoreapp2.0\2.HighQualityMistakes.pdb

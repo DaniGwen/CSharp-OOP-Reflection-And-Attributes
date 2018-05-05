@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P4.Collector\bin\Debug\netcoreapp2.0\P4.Collector.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P4.Collector\bin\Debug\netcoreapp2.0\P4.Collector.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P4.Collector\bin\Debug\netcoreapp2.0\P4.Collector.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P4.Collector\bin\Debug\netcoreapp2.0\P4.Collector.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P4.Collector\bin\Debug\netcoreapp2.0\P4.Collector.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P4.Collector\obj\Debug\netcoreapp2.0\P4.Collector.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P4.Collector\obj\Debug\netcoreapp2.0\P4.Collector.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P4.Collector\obj\Debug\netcoreapp2.0\P4.Collector.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P4.Collector\obj\Debug\netcoreapp2.0\P4.Collector.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P4.Collector\obj\Debug\netcoreapp2.0\P4.Collector.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P4.Collector\obj\Debug\netcoreapp2.0\P4.Collector.pdb

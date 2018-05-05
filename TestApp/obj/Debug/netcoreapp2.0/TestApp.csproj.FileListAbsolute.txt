@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\TestApp\bin\Debug\netcoreapp2.0\TestApp.deps.json
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\TestApp\bin\Debug\netcoreapp2.0\TestApp.dll
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\TestApp\bin\Debug\netcoreapp2.0\TestApp.pdb
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\TestApp\obj\Debug\netcoreapp2.0\TestApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\TestApp\obj\Debug\netcoreapp2.0\TestApp.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfoInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfo.cs
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\TestApp\obj\Debug\netcoreapp2.0\TestApp.dll
+c:\users\user\documents\visual studio 2017\Projects\CSharp OOP Advanced\TestApp\obj\Debug\netcoreapp2.0\TestApp.pdb
