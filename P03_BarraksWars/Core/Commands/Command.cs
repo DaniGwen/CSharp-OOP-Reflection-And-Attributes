@@ -5,29 +5,41 @@ using System.Text;
 
 namespace P03_BarraksWars.Contracts.Core
 {
-	
-	public abstract class Command : IExecutable
-	{
-		private string[] data;
-		private IRepository repository;
-		private IUnitFactory unitFactory;
 
-		public Command(string[] data, IRepository repository, IUnitFactory unitFactory)
-		{ 
-			this.Data = data;
-			this.Repository = repository;
-			this.UnitFactory = unitFactory;
-		}
+    public abstract class Command : IExecutable
+    {
+        private string[] data;
+        private IRepository repository;
+        private IUnitFactory unitFactory;
 
-		protected string[] Data { get; private set; }
+        public Command(string[] data, IRepository repository, IUnitFactory unitFactory)
+        {
+            this.Data = data;
+            this.Repository = repository;
+            this.UnitFactory = unitFactory;
+        }
 
-		protected IRepository Repository { get; private set; }
+        protected string[] Data
+        {
+            get { return data; }
+            private set { data = value; }
+        }
 
-		protected IUnitFactory UnitFactory { get; private set; }
+        protected IRepository Repository
+        {
+            get { return repository ; }
+            private set { repository = value; }
+        }
 
-		public abstract string Execute()
-		{
-			throw new System.NotImplementedException();  
-		}
-	}
+        protected IUnitFactory UnitFactory
+        {
+            get { return unitFactory; }
+            private set { unitFactory = value; }
+        }
+
+        public abstract string Execute()
+        {
+            throw new System.NotImplementedException();
+        }
+    }
 }
