@@ -5,7 +5,7 @@ using System.Text;
 
 namespace P03_BarraksWars.Contracts.Core
 {
-	
+
 	public abstract class Command : IExecutable
 	{
 		private string[] data;
@@ -13,21 +13,30 @@ namespace P03_BarraksWars.Contracts.Core
 		private IUnitFactory unitFactory;
 
 		public Command(string[] data, IRepository repository, IUnitFactory unitFactory)
-		{ 
+		{
 			this.Data = data;
 			this.Repository = repository;
 			this.UnitFactory = unitFactory;
 		}
 
-		protected string[] Data { get; private set; }
-
-		protected IRepository Repository { get; private set; }
-
-		protected IUnitFactory UnitFactory { get; private set; }
-
-		public abstract string Execute()
+		protected string[] Data
 		{
-			throw new System.NotImplementedException();  
+			get { return data; }
+			private set { data = value; }
 		}
+
+		protected IRepository Repository
+		{
+			get { return repository; }
+			private set { repository = value; }
+		}
+
+		protected IUnitFactory UnitFactory
+		{
+			get { return unitFactory; }
+			private set { unitFactory = value; }
+		}
+
+		public abstract string Execute();
 	}
 }
