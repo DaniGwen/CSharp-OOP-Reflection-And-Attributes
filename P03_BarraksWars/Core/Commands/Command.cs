@@ -5,6 +5,7 @@ using System.Text;
 
 namespace P03_BarraksWars.Contracts.Core
 {
+<<<<<<< HEAD
 
 	public abstract class Command : IExecutable
 	{
@@ -39,4 +40,43 @@ namespace P03_BarraksWars.Contracts.Core
 
 		public abstract string Execute();
 	}
+=======
+
+    public abstract class Command : IExecutable
+    {
+        private string[] data;
+        private IRepository repository;
+        private IUnitFactory unitFactory;
+
+        public Command(string[] data, IRepository repository, IUnitFactory unitFactory)
+        {
+            this.Data = data;
+            this.Repository = repository;
+            this.UnitFactory = unitFactory;
+        }
+
+        protected string[] Data
+        {
+            get { return data; }
+            private set { data = value; }
+        }
+
+        protected IRepository Repository
+        {
+            get { return repository ; }
+            private set { repository = value; }
+        }
+
+        protected IUnitFactory UnitFactory
+        {
+            get { return unitFactory; }
+            private set { unitFactory = value; }
+        }
+
+        public abstract string Execute()
+        {
+            throw new System.NotImplementedException();
+        }
+    }
+>>>>>>> cd9ba51505daa53088c344573725de5a954b0cf9
 }
