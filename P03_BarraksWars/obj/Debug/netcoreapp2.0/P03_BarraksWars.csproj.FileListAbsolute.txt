@@ -9,3 +9,14 @@ C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflecti
 C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
 C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
 C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojResolveAssemblyReference.cache
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb

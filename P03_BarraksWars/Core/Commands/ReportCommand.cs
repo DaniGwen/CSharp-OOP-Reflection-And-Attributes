@@ -2,16 +2,27 @@
 using System.Collections.Generic;
 using System.Text;
 using _03BarracksFactory.Contracts;
+using P03_BarraksWars.Core.Commands;
 
 namespace P03_BarraksWars.Contracts.Core.Commands
 {
 	public class ReportCommand : Command
 	{
-		public ReportCommand(string[] data, IRepository repository, IUnitFactory unitFactory) : base(data, repository, unitFactory)
+        [Inject]
+        private IRepository repository;
+
+        public ReportCommand(string[] data, IRepository repository) : base(data)
 		{
+            this.repository = repository;
 		}
 
-		public override string Execute()
+        protected IRepository Repository
+        {
+            get { return repository; }
+            private set { repository = value; }
+        }
+
+        public override string Execute()
 		{
 			string output = this.Repository.Statistics;
 			return output;
