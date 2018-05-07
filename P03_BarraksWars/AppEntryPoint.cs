@@ -14,7 +14,7 @@
         {
             IServiceProvider serviceProvider = ConfigureService();
 
-            ICommandInterpreter commandInterpreter = new CommandInterpreter(repository , unitFactory);
+            ICommandInterpreter commandInterpreter = new CommandInterpreter(serviceProvider);
             IRunnable engine = new Engine(commandInterpreter);
             engine.Run();
         }
