@@ -2,16 +2,27 @@
 using System.Collections.Generic;
 using System.Text;
 using _03BarracksFactory.Contracts;
+using P03_BarraksWars.Core.Commands;
 
 namespace P03_BarraksWars.Contracts.Core.Commands
 {
 	public class RetireCommand : Command
 	{
-		public RetireCommand(string[] data, IRepository repository, IUnitFactory unitFactory) : base(data, repository, unitFactory)
+        [Inject]
+        private IRepository repository;
+
+        public RetireCommand(string[] data, IRepository repository) : base(data)
 		{
+           
 		}
 
-		public override string Execute()
+        protected IRepository Repository
+        {
+            get { return repository; }
+            private set { repository = value; }
+        }
+
+        public override string Execute()
 		{
 			string unitType = Data[1];
 			try
