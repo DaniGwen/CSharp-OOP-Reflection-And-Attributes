@@ -664,27 +664,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\deko\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSharp OOP Advanced Reflection And Attributes\\01.HarvestingFields\\01.HarvestingFields.csproj",
+      "projectUniqueName": "C:\\Users\\deko\\Documents\\Visual Studio 2017\\projects\\CSharp-OOP-Reflection-and-Attributes\\01.HarvestingFields\\01.HarvestingFields.csproj",
       "projectName": "01.HarvestingFields",
-      "projectPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSharp OOP Advanced Reflection And Attributes\\01.HarvestingFields\\01.HarvestingFields.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSharp OOP Advanced Reflection And Attributes\\01.HarvestingFields\\obj\\",
+      "projectPath": "C:\\Users\\deko\\Documents\\Visual Studio 2017\\projects\\CSharp-OOP-Reflection-and-Attributes\\01.HarvestingFields\\01.HarvestingFields.csproj",
+      "packagesPath": "C:\\Users\\deko\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\deko\\Documents\\Visual Studio 2017\\projects\\CSharp-OOP-Reflection-and-Attributes\\01.HarvestingFields\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\deko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
