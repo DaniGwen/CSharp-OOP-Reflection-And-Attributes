@@ -6,7 +6,7 @@ namespace _06.TrafficLights
     {
         static void Main()
         {
-            
+            new Engine().Run();
         }
     }
 }

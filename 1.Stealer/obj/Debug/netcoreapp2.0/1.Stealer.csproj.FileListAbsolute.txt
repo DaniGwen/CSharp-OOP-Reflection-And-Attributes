@@ -20,3 +20,14 @@ C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflecti
 C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\1.Stealer\obj\Debug\netcoreapp2.0\1.Stealer.AssemblyInfo.cs
 C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\1.Stealer\obj\Debug\netcoreapp2.0\1.Stealer.dll
 C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Advanced Reflection And Attributes\1.Stealer\obj\Debug\netcoreapp2.0\1.Stealer.pdb
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\1.Stealer\bin\Debug\netcoreapp2.0\1.Stealer.deps.json
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\1.Stealer\bin\Debug\netcoreapp2.0\1.Stealer.runtimeconfig.json
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\1.Stealer\bin\Debug\netcoreapp2.0\1.Stealer.runtimeconfig.dev.json
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\1.Stealer\bin\Debug\netcoreapp2.0\1.Stealer.dll
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\1.Stealer\bin\Debug\netcoreapp2.0\1.Stealer.pdb
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\1.Stealer\obj\Debug\netcoreapp2.0\1.Stealer.csprojResolveAssemblyReference.cache
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\1.Stealer\obj\Debug\netcoreapp2.0\1.Stealer.csproj.CoreCompileInputs.cache
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\1.Stealer\obj\Debug\netcoreapp2.0\1.Stealer.AssemblyInfoInputs.cache
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\1.Stealer\obj\Debug\netcoreapp2.0\1.Stealer.AssemblyInfo.cs
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\1.Stealer\obj\Debug\netcoreapp2.0\1.Stealer.dll
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\1.Stealer\obj\Debug\netcoreapp2.0\1.Stealer.pdb

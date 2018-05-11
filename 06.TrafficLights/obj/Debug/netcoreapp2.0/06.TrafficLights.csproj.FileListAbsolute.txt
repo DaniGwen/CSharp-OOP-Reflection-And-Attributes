@@ -1,0 +1,11 @@
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\06.TrafficLights\bin\Debug\netcoreapp2.0\06.TrafficLights.deps.json
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\06.TrafficLights\bin\Debug\netcoreapp2.0\06.TrafficLights.runtimeconfig.json
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\06.TrafficLights\bin\Debug\netcoreapp2.0\06.TrafficLights.runtimeconfig.dev.json
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\06.TrafficLights\bin\Debug\netcoreapp2.0\06.TrafficLights.dll
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\06.TrafficLights\bin\Debug\netcoreapp2.0\06.TrafficLights.pdb
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\06.TrafficLights\obj\Debug\netcoreapp2.0\06.TrafficLights.csprojResolveAssemblyReference.cache
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\06.TrafficLights\obj\Debug\netcoreapp2.0\06.TrafficLights.csproj.CoreCompileInputs.cache
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\06.TrafficLights\obj\Debug\netcoreapp2.0\06.TrafficLights.AssemblyInfoInputs.cache
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\06.TrafficLights\obj\Debug\netcoreapp2.0\06.TrafficLights.AssemblyInfo.cs
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\06.TrafficLights\obj\Debug\netcoreapp2.0\06.TrafficLights.dll
+C:\Users\deko\Documents\Visual Studio 2017\projects\CSharp-OOP-Reflection-and-Attributes\06.TrafficLights\obj\Debug\netcoreapp2.0\06.TrafficLights.pdb
