@@ -1,34 +1,29 @@
-﻿namespace _03BarracksFactory
+﻿
+
+using Microsoft.Extensions.DependencyInjection;
+using System;
+
+class AppEntryPoint
 {
-    using Contracts;
-    using Core;
-    using Core.Factories;
-    using Data;
-    using P03_BarraksWars.Contracts.Core;
-    using Microsoft.Extensions.DependencyInjection;
-    using System;
-
-    class AppEntryPoint
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            IServiceProvider serviceProvider = ConfigureService();
+        IServiceProvider serviceProvider = ConfigureService();
 
-            ICommandInterpreter commandInterpreter = new CommandInterpreter(serviceProvider);
-            IRunnable engine = new Engine(commandInterpreter);
-            engine.Run();
-        }
+        ICommandInterpreter commandInterpreter = new CommandInterpreter(serviceProvider);
+        IRunnable engine = new Engine(commandInterpreter);
+        engine.Run();
+    }
 
-        private static IServiceProvider ConfigureService()
-        {
-            IServiceCollection service = new ServiceCollection();
+    private static IServiceProvider ConfigureService()
+    {
+        IServiceCollection service = new ServiceCollection();
 
-            service.AddTransient<IUnitFactory , UnitFactory>();
-            service.AddSingleton<IRepository, UnitRepository>();
+        service.AddTransient<IUnitFactory, UnitFactory>();
+        service.AddSingleton<IRepository, UnitRepository>();
 
-            IServiceProvider serviceProvider = service.BuildServiceProvider();
+        IServiceProvider serviceProvider = service.BuildServiceProvider();
 
-            return serviceProvider;
-        }
+        return serviceProvider;
     }
 }
+

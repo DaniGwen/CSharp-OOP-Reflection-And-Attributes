@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _03BarracksFactory.Contracts
-{
+
     public interface IUnit : IDestroyable, IAttacker
     {
 
     }
-}
+

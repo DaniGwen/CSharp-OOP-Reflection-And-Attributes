@@ -1,7 +1,6 @@
-﻿namespace _03BarracksFactory.Contracts
+﻿
+public interface IAttacker
 {
-    public interface IAttacker
-    {
-        int AttackDamage { get; }
-    }
+    int AttackDamage { get; }
 }
+

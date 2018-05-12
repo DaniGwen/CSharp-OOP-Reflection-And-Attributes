@@ -1,65 +1,63 @@
-﻿namespace _03BarracksFactory.Models.Units
+﻿
+using System;
+
+
+public class Unit : IUnit
 {
-    using System;
-    using Contracts;
+    private int health;
+    private int attackDamage;
 
-    public class Unit : IUnit
+    protected Unit(int health, int attackDamage)
     {
-        private int health;
-        private int attackDamage;
+        this.SetInitialHealth(health);
+        this.AttackDamage = attackDamage;
+    }
 
-        protected Unit(int health, int attackDamage)
+    public int AttackDamage
+    {
+        get
         {
-            this.SetInitialHealth(health);
-            this.AttackDamage = attackDamage;
+            return this.attackDamage;
         }
 
-        public int AttackDamage
+        private set
         {
-            get
+            if (value <= 0)
             {
-                return this.attackDamage;
+                throw new ArgumentException("Attack damage should be positive.");
             }
 
-            private set
-            {
-                if (value <= 0)
-                {
-                    throw new ArgumentException("Attack damage should be positive.");
-                }
+            this.attackDamage = value;
+        }
+    }
 
-                this.attackDamage = value;
-            }
+    public int Health
+    {
+        get
+        {
+            return this.health;
         }
 
-        public int Health
+        set
         {
-            get
+            if (value < 0)
             {
-                return this.health;
+                this.health = 0;
             }
-
-            set
+            else
             {
-                if (value < 0)
-                {
-                    this.health = 0;
-                }
-                else
-                {
-                    this.health = value;
-                }
+                this.health = value;
             }
         }
+    }
 
-        private void SetInitialHealth(int health)
+    private void SetInitialHealth(int health)
+    {
+        if (health <= 0)
         {
-            if (health <= 0)
-            {
-                throw new ArgumentException("Initial health should be positive.");
-            }
-
-            this.Health = health;
+            throw new ArgumentException("Initial health should be positive.");
         }
+
+        this.Health = health;
     }
 }
